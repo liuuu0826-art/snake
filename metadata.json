@@ -1,0 +1,5 @@
+{
+  "name": "Neon Snake",
+  "description": "A high-performance, modern retro Snake game with neon aesthetics, smooth canvas rendering, and progressive difficulty.",
+  "requestFramePermissions": []
+}
